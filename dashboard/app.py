@@ -31,7 +31,7 @@ df["shipping_cost"] = df["shipping"].apply(
 
 # ── Page setup ────────────────────────────────
 st.set_page_config("eBay Retail Dashboard", layout="wide")
-st.title("🍭️  Retail Price Tracker — eBay Shoes")
+st.title("Retail Price Tracker — eBay Shoes")
 st.caption("Explore eBay shoe listings: filter by brand, price, shipping, and discounts.")
 
 # ── Sidebar filters ───────────────────────────────
