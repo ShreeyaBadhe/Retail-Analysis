@@ -1,7 +1,7 @@
 # Retail Price Tracker — Ecommerce
-
+> Skills: Python, Selenium, BeautifulSoup, Pandas, Data Cleaning, Streamlit, Data Visualization, Web Scraping, ETL Pipeline, Dashboard Deployment
 Track shoe listings with data crawling, cleaning, visualization, and deployment.
----   **
+--- 
 # Demo
 
 
