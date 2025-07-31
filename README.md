@@ -2,7 +2,7 @@
 
 Track shoe listings with data crawling, cleaning, visualization, and deployment.
 ---   
--    ![Demo Video](demo.retail)
+-    ![Demo Video](demo_retail)
 ---
 ## Project Highlights
 
