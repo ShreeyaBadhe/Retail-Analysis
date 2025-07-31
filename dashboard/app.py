@@ -30,9 +30,9 @@ df["shipping_cost"] = df["shipping"].apply(
 )
 
 # ── Page setup ────────────────────────────────
-st.set_page_config("eBay Retail Dashboard", layout="wide")
-st.title("Retail Price Tracker — eBay Shoes")
-st.caption("Explore eBay shoe listings: filter by brand, price, shipping, and discounts.")
+st.set_page_config(" Retail Dashboard", layout="wide")
+st.title("Retail Price Tracker-Ecommerce ")
+st.caption("Explore shoe listings: filter by brand, price, shipping, and discounts.")
 
 # ── Sidebar filters ───────────────────────────────
 brands_list = sorted([b for b in df["brand"].dropna().unique() if b in KNOWN_BRANDS])
