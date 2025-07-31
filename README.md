@@ -1,8 +1,11 @@
 # Retail Price Tracker — Ecommerce
 
 Track shoe listings with data crawling, cleaning, visualization, and deployment.
----   
--    ![Demo Video](demo_retail.gif)
+---   **
+# Demo
+
+
+  ![Demo Video](demo_retail.gif)
 ---
 ## Project Highlights
 
